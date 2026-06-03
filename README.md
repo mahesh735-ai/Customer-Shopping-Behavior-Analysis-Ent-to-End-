@@ -14,6 +14,7 @@ A leading retail company wanted to better understand its customers' shopping beh
 > *How can the company leverage customer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?*
 
 ---
+![Power BI Dashboard](https://github.com/mahesh735-ai/Customer-Shopping-Behavior-Analysis-Ent-to-End-/blob/main/Dashboard_Screenshot.png?raw=true)
 
 ## 🗂️ Project Structure
 
@@ -96,11 +97,6 @@ customer-behavior-analysis/
 - **Column Charts** — Revenue & Sales by Category
 - **Bar Charts** — Revenue & Sales by Age Group
 - **Interactive Slicers** — Filter by Subscription Status, Gender, Category, Shipping Type
-
-### Screenshot — Power BI Dashboard
-<!-- Add screenshot: upload to screenshots/ folder and uncomment below -->
-> ![Power BI Dashboard](https://github.com/mahesh735-ai/Customer-Shopping-Behavior-Analysis-Ent-to-End-/blob/main/Dashboard_Screenshot.png](https://github.com/mahesh735-ai/Customer-Shopping-Behavior-Analysis-Ent-to-End-/blob/main/Dashboard_Screenshot.png))
-
 ---
 
 ## 💡 Key Business Insights
@@ -172,3 +168,5 @@ MIT License — feel free to use and modify.
 
 ---
 *Built with Python • PostgreSQL • Power BI*
+
+
