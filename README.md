@@ -65,9 +65,6 @@ customer-behavior-analysis/
 6. **Redundancy Check** — Verified `discount_applied == promo_code_used` → dropped `promo_code_used`
 7. **Database Export** — Loaded cleaned DataFrame to PostgreSQL via `SQLAlchemy`
 
-### Screenshot — Jupyter Notebook
-<!-- Add screenshot: upload to screenshots/ folder and uncomment below -->
-> ![Python EDA](screenshots/python_eda.png)
 
 ---
 
@@ -88,9 +85,6 @@ customer-behavior-analysis/
 | Q9 | Repeat buyers & subscription rate | `WHERE filter + GROUP BY` |
 | Q10 | Revenue by age group | `GROUP BY + SUM` |
 
-### Screenshot — PostgreSQL Queries
-<!-- Add screenshot: upload to screenshots/ folder and uncomment below -->
-> ![SQL Queries](screenshots/sql_queries.png)
 
 ---
 
@@ -105,7 +99,7 @@ customer-behavior-analysis/
 
 ### Screenshot — Power BI Dashboard
 <!-- Add screenshot: upload to screenshots/ folder and uncomment below -->
-> ![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+> ![Power BI Dashboard](https://github.com/mahesh735-ai/Customer-Shopping-Behavior-Analysis-Ent-to-End-/blob/main/Dashboard_Screenshot.png](https://github.com/mahesh735-ai/Customer-Shopping-Behavior-Analysis-Ent-to-End-/blob/main/Dashboard_Screenshot.png))
 
 ---
 
